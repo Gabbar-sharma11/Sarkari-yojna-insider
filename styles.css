@@ -1099,6 +1099,8 @@ footer .copyright{
     #ckbtn{
         display: block;
         cursor: pointer;
+        margin: 0;
+        padding: 0;
     }
     .logo img{
         width: 200px;
